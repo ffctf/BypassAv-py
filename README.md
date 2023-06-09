@@ -1,2 +1,27 @@
 # BypassAv-py
+
 免杀某60、火绒、pythonShellcode-loader
+
+随便找的加载器配上简单的混淆
+
+传云查杀就G 
+
+## 0x01食用教程: 
+
+使用Cs生成Python shellcode ，把Use x64 payload 打上勾
+
+![生成payload](https://github.com/ffctf/BypassAv-py/blob/main/IMG/%E7%94%9F%E6%88%90payload.png)
+
+把生成的shellcode复制到Bypass.py内的第九行
+
+运行脚本即可生成exe
+
+
+
+
+
+2023.06.09测试可过火绒和360
+
+![火绒](https://github.com/ffctf/BypassAv-py/blob/main/IMG/%E7%81%AB%E7%BB%92.png)
+
+![360](https://github.com/ffctf/BypassAv-py/blob/main/IMG/360.png)
