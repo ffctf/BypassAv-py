@@ -2,9 +2,7 @@
 
 免杀某60、火绒、pythonShellcode-loader
 
-随便找的加载器配上简单的混淆
 
-传云查杀就G 
 
 声明：本工具仅供以安全为目的的学习交流使用，任何人不得将其用于非法用途以及盈利等目的，否则后果自行承担。
 
@@ -26,5 +24,5 @@
 
 
 ![火绒](https://github.com/ffctf/BypassAv-py/blob/main/IMG/%E7%81%AB%E7%BB%92.png)
-
 ![360](https://github.com/ffctf/BypassAv-py/blob/main/IMG/360.png)
+![360](https://github.com/ffctf/BypassAv-py/blob/main/IMG/%E4%BA%91%E6%9F%A5%E6%9D%80.png)
