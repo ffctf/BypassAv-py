@@ -20,7 +20,7 @@
 
 
 
-2023.06.09测试可过火绒和360
+2023.06.11测试可过火绒和360云查杀
 
 
 ![火绒](https://github.com/ffctf/BypassAv-py/blob/main/IMG/%E7%81%AB%E7%BB%92.png)
