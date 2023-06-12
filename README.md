@@ -1,8 +1,8 @@
 # BypassAv-py 
 
-免杀某60、火绒、pythonShellcode-loader
+免杀某60、火绒、PythonShellcode-loader
 
-
+2023.06.12测试可过火绒和360云查杀等国内杀软
 
 声明：本工具仅供以安全为目的的学习交流使用，任何人不得将其用于非法用途以及盈利等目的，否则后果自行承担。
 
@@ -16,11 +16,6 @@
 
 运行脚本即可生成exe
 
-
-
-
-
-2023.06.11测试可过火绒和360云查杀
 
 
 ![火绒](https://github.com/ffctf/BypassAv-py/blob/main/IMG/%E7%81%AB%E7%BB%92.png)
