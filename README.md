@@ -2,7 +2,9 @@
 
 免杀某60、火绒、PythonShellcode-loader
 
-2023.06.12测试可过火绒和360云查杀等国内杀软
+2023.06.13测试可过火绒和360云查杀等国内杀软
+
+![360](https://github.com/ffctf/BypassAv-py/blob/main/IMG/cs.png)
 
 失效了记得提issues 
 
@@ -23,3 +25,4 @@
 ![火绒](https://github.com/ffctf/BypassAv-py/blob/main/IMG/%E7%81%AB%E7%BB%92.png)
 ![360](https://github.com/ffctf/BypassAv-py/blob/main/IMG/360.png)
 ![360](https://github.com/ffctf/BypassAv-py/blob/main/IMG/%E4%BA%91%E6%9F%A5%E6%9D%80.png)
+
