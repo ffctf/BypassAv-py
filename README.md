@@ -2,8 +2,13 @@
 
 免杀某60、火绒、PythonShellcode-loader
 
-2023.06.16测试可过火绒和360云查杀等国内一家子
+## 更新日志: 
+```2023.06.18更新可过火绒和360云查杀等国内一家子```
+![360](https://github.com/ffctf/BypassAv-py/blob/main/IMG/11.png)
+![360](https://github.com/ffctf/BypassAv-py/blob/main/IMG/111.png)
 
+
+```2023.06.16测试可过火绒和360云查杀等国内一家子```
 ![360](https://github.com/ffctf/BypassAv-py/blob/main/IMG/cs.png)
 
 失效了记得提issues 
