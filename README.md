@@ -1,3 +1,4 @@
+![socialify](https://socialify.git.ci/ffctf/BypassAv-py/image?description=1&font=Inter&forks=1&issues=1&language=1&logo=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F57828643%3Fv%3D4&owner=1&pattern=Charlie%20Brown&pulls=1&stargazers=1&theme=Dark)
 # BypassAv-py 
 
 免杀某60、火绒、PythonShellcode-loader
