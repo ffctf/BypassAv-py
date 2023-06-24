@@ -1,4 +1,4 @@
-# 2023-06-18 ffctf
+# 2023-06-24 ffctf
 import base64
 import ctypes
 import os
@@ -78,12 +78,14 @@ file.write("""
 import base64
 import ctypes
 
-dasfgadgadfg=0
-fadsfasdfsadfg=\""""'' +Code+ '' """\"
-while dasfgadgadfg<6:
-    fadsfasdfsadfg=base64.b64decode(fadsfasdfsadfg)
-    dasfgadgadfg+=1
-exec(fadsfasdfsadfg)
+fffff=0
+ffffff=\""""'' +Code+ '' """\"
+for fffff in range(6):
+    ffffff=base64.b64decode(ffffff)
+fasdas=ffffff
+ffff=\"""print("1")""\"
+exec(ffff)
+exec(ffffff)
 """)
 
 file.close()
