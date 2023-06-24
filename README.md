@@ -7,6 +7,9 @@
 
 师傅们点点Star支持一下
 ## 更新日志: 
+```2023.06.24更新可过火绒和360云查杀等国内一家子```
+
+
 ```2023.06.18更新可过火绒和360云查杀等国内一家子```
 ![360](https://github.com/ffctf/BypassAv-py/blob/main/IMG/11.png)
 ![360](https://github.com/ffctf/BypassAv-py/blob/main/IMG/111.png)
