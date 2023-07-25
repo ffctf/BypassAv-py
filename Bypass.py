@@ -107,4 +107,3 @@ except:
 shutil.rmtree("./build")
 os.remove("./ffctf.spec")
 os.remove("./ffctf.py")
-os.remove("./ffctf.py")
